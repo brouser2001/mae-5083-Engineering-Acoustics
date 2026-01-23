@@ -1,3 +1,4 @@
+#filename has underscore so we can import later
 import numpy as np
 
 def hAn(l_ratio,n): #l_ratio=l/L
